@@ -5,6 +5,7 @@ body {
 .container{
     background-color: white;
     margin-top: 100px;
+    margin-bottom: 20px;
 }
 
 #aboutme{
@@ -29,7 +30,7 @@ body {
 }
 
 .section .sub-header{
-    color:#227c74;
+    color:#d1a222;
     font-size: 1.5rem;
     font-weight: 700;
     text-transform: uppercase;
@@ -184,12 +185,13 @@ body {
 }
 
 #text-header #name {
-    margin: 0;
+    margin-top: 10px;
     padding: 0;
     font-size: 1.5em;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: -1px;
+
 }
 
 #text-header #position {
